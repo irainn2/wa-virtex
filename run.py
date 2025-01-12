@@ -1,4 +1,4 @@
-#!/usr/bin/python
+e#!/usr/bin/python
 import os,sys
 
 def main():
